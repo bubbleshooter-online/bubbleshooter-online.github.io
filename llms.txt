@@ -4,9 +4,9 @@
 
 ## Main Sections
 
-- Home: https://bubbleshooteronline.bitbucket.io/
-- Popular Games: https://bubbleshooteronline.bitbucket.io/popular/
-- All Games: https://bubbleshooteronline.bitbucket.io/all-games/
+- Home: https://bubbleshooter-online.github.io/
+- Popular Games: https://bubbleshooter-online.github.io/popular/
+- All Games: https://bubbleshooter-online.github.io/all-games/
 
 ## Popular Game Types
 
@@ -21,5 +21,5 @@
  
 ## Policies
 
-- Privacy Policy: https://bubbleshooteronline.bitbucket.io/privacy-policy/
-- Contact: https://bubbleshooteronline.bitbucket.io/contact/
+- Privacy Policy: https://bubbleshooter-online.github.io/privacy-policy/
+- Contact: https://bubbleshooter-online.github.io/contact/
