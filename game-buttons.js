@@ -10998,7 +10998,7 @@
    * Yani agar URL ka aakhri part "index.html" (ya index.htm/.php)
    * ho, to uske SE PEHLE wala folder-name hi asli Bubble Shooter hai —
    * kyunke har game apni khud ki folder me "index.html" ke
-   * andar hoti hai (Bubble Shooter Bitbucket/index.html).
+   * andar hoti hai (Bubble Shooter/index.html).
    */
   function getBubble ShooterFromUrl(url) {
     if (!url) return null;
@@ -11032,7 +11032,7 @@
    *
    * PRIORITY:
    *   1) Page ka apna URL (window.location) — kyunke site
-   *      structure hi "site.com/class/Bubble Shooter Bitbucket/index.html" hai,
+   *      structure hi "site.com/class/Bubble Shooter/index.html" hai,
    *      is liye yeh sabse reliable source hai (iframe ka src
    *      kabhi outdated/hardcoded ho sakta hai, jaisa testing
    *      me hua).

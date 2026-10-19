@@ -121,11 +121,11 @@ window.onload = function() {
             $('#report-error-message').text('Your message must contain at least 20 characters').show();
             return;
         }
-        const Bubble Shooter Bitbucket = $('input[name="game[name]"]').val().trim();
+        const Bubble Shooter = $('input[name="game[name]"]').val().trim();
         const email = $('input[name="game[email]"]').val().trim();
         const game_url = $('input[name="game[url]"]').val().trim();
         const formData = {
-            'game[name]': Bubble Shooter Bitbucket,
+            'game[name]': Bubble Shooter,
             'game[issue]': issue,
             'game[email]': email,
             'game[message]': message,
